@@ -52,7 +52,7 @@ async function getTranscript(apiKey, videoId) {
 }
 
 // Replace 'YOUR_API_KEY' and 'VIDEO_ID' with your actual API key and YouTube video ID
-const apiKey = 'AIzaSyCvT1Ju2xDWcy5E7xm2kd0zZpi3AjOwfTg';
+// const apiKey = 'AIzaSyCvT1Ju2xDWcy5E7xm2kd0zZpi3AjOwfTg';
 const videoId = 'aSW7RJ5zWgE';
 
 getTranscript(apiKey, videoId)
