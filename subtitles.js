@@ -22,6 +22,9 @@ captions.forEach((caption) => {
 
 const userPrompt1 = userPrompt.split(' ').slice(0, 3000).join(' ')
 const userPrompt2 = userPrompt.split(' ').slice(3000, 6000).join(' ')
+//Todo
+//concatinate userPrompt1 and userPrompt2
+//final summary
 
 console.log('userPrompt1', userPrompt1)
 console.log('userPrompt2', userPrompt2)
